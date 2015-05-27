@@ -1,7 +1,7 @@
 === WP Responsive Icons List Carousel ===
-Contributors: omikant
+Contributors: omikant, wptutorialspoint
 Donate Link: http://wptutorialspoint.com/
-Tags: Icon List
+Tags: Icon List, Carousel Plugin, Logo Carousel Plugin, Icon Carousel Plugin, WordPress Carousel Plugin
 Requires at least: 3.0.1
 Tested up to: 4.2
 Stable tag: 1.0
@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-WP Responsive Icons List Carousel plugin is for Add Icons with this Shortcode '[Iconlist-icons]'.
+WP Responsive Icons List Carousel plugin is for Add Icons with this Shortcode '[Iconlist-icons]'. For More info please check this Link http://www.wptutorialspoint.com/ .
 
 
 = Shortcode Options =
